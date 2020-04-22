@@ -1,0 +1,14 @@
+* {
+    font-family: "Oswald", sans-serif;
+}
+
+.header-hero {
+    background-color: #132489;
+    color: white;
+    padding: 1px;
+    /* border-bottom: thick #3DD6D8; */
+}
+
+.footer {
+    background-image: url(starter_files/images/donate.jpg), url(starter_files/images/volunteer.jpg), url(starter_files/images/location.png),linear-gradient();
+}
