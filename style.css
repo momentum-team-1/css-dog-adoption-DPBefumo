@@ -21,7 +21,7 @@ img {
     border-bottom: #3DD6D8;
 }
 
-.column-left{
+/* .column-left{
     float: left;
     width: 30%;
     padding: 10px;
@@ -38,7 +38,7 @@ img {
     float: right;
     width: 30%;
     padding: 10px;
-}
+} */
 
 .footer {
     background-image: url(starter_files/images/donate.jpg), url(starter_files/images/volunteer.jpg), url(starter_files/images/location.png);
