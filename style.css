@@ -9,11 +9,30 @@ span {
     align-items: top;
 }
 
+img {
+    height: auto;
+    width: 250px;
+}
+
 .header-hero {
     background-color: #132489;
     color: white;
     padding: 1px;
     /* border-bottom: #3DD6D8; */
+}
+
+.top-left{
+    float: left;
+    margin: 10px;
+}
+
+.top-center {
+    float: left;
+    margin: 10px;
+}
+
+.top-right {
+    float: left;
 }
 
 .footer {
