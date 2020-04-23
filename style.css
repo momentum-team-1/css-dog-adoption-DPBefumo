@@ -61,14 +61,20 @@ img {
 
 .row1 {
     display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .row2 {
     display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .row3 {
     display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .name {
@@ -77,6 +83,7 @@ img {
 
 .attributes {
     display: inline-flex;
+    overflow-wrap: break-word;
 }
 
 .tag {
