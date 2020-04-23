@@ -5,15 +5,14 @@
 span {
     background-color: #3DD6D8;
     border-radius: 12px;
-    font-size: 12px;
-    padding: 4px;
+    font-size: 68%;
     margin: 2px;
+    padding-top: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 2px;
+    
 }
-
-/* body {
-    margin-left: 200px;
-    margin-right: 200px;
-} */
 
 img {
     height: auto;
@@ -21,11 +20,25 @@ img {
     vertical-align: top;
 }
 
+figure {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .header-hero {
     background-color: #132489;
     color: white;
     padding: 1px;
     border-bottom: #3DD6D8;
+}
+
+.card {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 33%;
+    align-content: center;
+    flex-wrap: center;
+    margin: 5px;
 }
 
 .footer {
@@ -55,37 +68,23 @@ img {
     margin-bottom: -87px;
 }
 
-.card {
-    display: inline-flex;
+/* 
+.attributes {
+    
 }
 
 .row1 {
-    display: inline-flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+
 }
 
 .row2 {
-    display: inline-flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+
 }
 
 .row3 {
-    display: inline-flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
 
-.name {
-
-} 
-
-.attributes {
-    display: inline-flex;
-    overflow-wrap: break-word;
 }
 
 .tag {
     
-}
+} */
