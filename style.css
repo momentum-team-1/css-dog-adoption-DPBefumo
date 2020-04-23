@@ -4,10 +4,16 @@
 
 span {
     background-color: #3DD6D8;
-    border-radius: 75%;
-    font-size: 10px;
-    vertical-align: top;
+    border-radius: 12px;
+    font-size: 12px;
+    padding: 4px;
+    margin: 2px;
 }
+
+/* body {
+    margin-left: 200px;
+    margin-right: 200px;
+} */
 
 img {
     height: auto;
@@ -50,14 +56,29 @@ img {
 }
 
 .card {
-    display: flex;
-    flex-direction: row;
+    display: inline-flex;
 }
 
-/* .name {
-    display: flex;
+.row1 {
+    display: inline-flex;
 }
+
+.row2 {
+    display: inline-flex;
+}
+
+.row3 {
+    display: inline-flex;
+}
+
+.name {
+
+} 
 
 .attributes {
-    display: flex; */
+    display: inline-flex;
+}
+
+.tag {
+    
 }
