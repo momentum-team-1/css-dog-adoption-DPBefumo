@@ -2,13 +2,21 @@
     font-family: "Oswald", sans-serif;
 }
 
+span {
+    background-color: #3DD6D8;
+    border-radius: 75%;
+    font-size: 10px;
+}
+
 .header-hero {
     background-color: #132489;
     color: white;
     padding: 1px;
-    /* border-bottom: thick #3DD6D8; */
+    /* border-bottom: #3DD6D8; */
 }
 
 .footer {
-    background-image: url(starter_files/images/donate.jpg), url(starter_files/images/volunteer.jpg), url(starter_files/images/location.png),linear-gradient();
+    background-image: url(starter_files/images/donate.jpg), url(starter_files/images/volunteer.jpg), url(starter_files/images/location.png);
+    background-color: #B766F3;
+    opacity: 50%;
 }
