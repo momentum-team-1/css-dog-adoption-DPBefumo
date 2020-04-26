@@ -1,0 +1,94 @@
+* {
+    font-family: "Oswald", sans-serif;
+}
+
+span {
+    background-color: #3DD6D8;
+    border-radius: 12px;
+    font-size: 68%;
+    margin: 2px;
+    padding-top: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 2px;
+    
+}
+
+img {
+    height: auto;
+    width: 250px;
+    vertical-align: top;
+}
+
+figure {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.header-hero {
+    background-color: #132489;
+    color: white;
+    padding: 1px;
+    border-bottom: #3DD6D8;
+}
+
+.card {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 30%;
+    align-content: center;
+    margin: 5px;
+}
+
+.footer {
+    width: 100%;
+    height: 285px;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.donate {
+    background: linear-gradient( rgba(183, 102, 243, 0.7), rgba(183, 102, 243, 0.7)), url(starter_files/images/donate.jpg);
+    background-position: center;
+    background-size: 100%;
+    width: 33%;
+    text-align: center;
+}
+
+.location {
+    background: linear-gradient( rgba(183, 102, 243, 0.7), rgba(183, 102, 243, 0.7)), url(starter_files/images/location.png);
+    background-position: center;
+    background-size: 100%;
+    width: 33%;
+}
+
+.volunteer {
+    background: linear-gradient( rgba(183, 102, 243, 0.7), rgba(183, 102, 243, 0.7)), url(starter_files/images/volunteer.jpg);
+    background-position: center;
+    background-size: 100%;
+    width: 33%;
+}
+
+/* 
+.attributes {
+    
+}
+
+.row1 {
+
+}
+
+.row2 {
+
+}
+
+.row3 {
+
+}
+
+.tag {
+    
+} */
